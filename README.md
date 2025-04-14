@@ -106,7 +106,7 @@ The performance ranking (based on Sharpe Ratio) was:
 4. **A2C** - Marginal improvements over baseline
 5. **PPO** - Decreasing portfolio value over time
 
-![Net Worth Chart](./net_worth_plot.png)
+![Net Worth Chart](./Images/net_worth_plot.png)
 
 This aligns with paper insights that **actor-critic methods** like DDPG and SAC perform better in continuous environments.
 
