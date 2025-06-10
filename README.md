@@ -76,7 +76,7 @@ We implemented a custom Gym environment:
 
 - Tracks cash, number of shares, and net worth
 - Allows three actions: Buy (1 share), Sell (1 share), Hold
-- Reward = Δ(Net Worth) − Transaction Cost (0.1% per transaction)
+- Reward = Δ(Net Worth) − Transaction Cost(0.1% per transaction)
 
 ### 4. Agent Training
 
