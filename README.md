@@ -27,7 +27,9 @@ Recommended environment: Python 3.8+ with Jupyter Notebook.
 
 ## Project Overview
 
+
 We developed and evaluated multiple DRL-based agents to make trading decisions on stock price data. Agents were trained in a custom OpenAI Gym-compatible environment and assessed using key financial metrics like **net worth**, **returns**, and **Sharpe Ratio**.
+
 
 We implemented and compared the following DRL algorithms:
 
